@@ -3,6 +3,7 @@ package Tienda;
 
 public class Gestor_De_Ventas {
     private int totalVentas;
+    private int totClientes;
 
     public Gestor_De_Ventas(int totalVentas) {
         this.totalVentas = totalVentas;
